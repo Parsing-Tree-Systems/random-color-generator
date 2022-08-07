@@ -1,4 +1,4 @@
-import './style.css';
+import './styles.css';
 import { CSSHelper } from './helpers';
 
 const container = document.createElement('div');
