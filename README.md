@@ -4,10 +4,12 @@ A tiny JS project to generate 10000 colors at random
 
 
 ## Local setup 
-- Install VS-code [extension](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server)
+- Install live-server VS-code [extension](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server)
 - Right click on `index.html` for the option **Open with Five Server**
 - Choose the option to run it on your local
 
 ## App Url
 Access the app here - https://vkbharadwazkopalle.github.io/random-color-generator/
 
+## Medium post
+https://vkbharadwazkopalle.medium.com/javascript-gym-create-a-palette-with-10000-colors-7ead325c3d57
