@@ -1,5 +1,5 @@
 import './styles.css';
-import { CSSHelper } from './helpers';
+import { CSSHelper } from './helpers/helpers.js';
 
 const container = document.createElement('div');
 container.setAttribute('class', 'flex-wrap container');
