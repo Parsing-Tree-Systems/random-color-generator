@@ -1,5 +1,6 @@
 # Random 10000 CSS color generator
-![image](https://user-images.githubusercontent.com/5936702/183281496-682e28d8-8552-4884-81e3-0f165f3c6d66.png)
+![image](https://user-images.githubusercontent.com/5936702/184078890-61742e87-3292-44c3-90fb-938e78f048f1.png)
+
 A tiny JS project to generate 10000 colors at random
 
 
