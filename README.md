@@ -9,8 +9,8 @@ A tiny JS project to generate 10000 colors at random
 - Right click on `index.html` for the option **Open with Five Server**
 - Choose the option to run it on your local
 
-## App Url
-Access the app here - https://vkbharadwazkopalle.github.io/random-color-generator/
+## Demo
+https://vkbharadwazkopalle.github.io/random-color-generator/
 
 ## Medium post
 https://vkbharadwazkopalle.medium.com/javascript-gym-create-a-palette-with-10000-colors-7ead325c3d57

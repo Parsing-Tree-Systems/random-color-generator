@@ -4,10 +4,35 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Generate 10000 Colors at random</title>
+    <title>Generate N Colors at random</title>
   </head>
   <body>
-    <h1>Generate 10000 Colors at random</h1>
+    <h1>Generate <em>N</em> Colors at random</h1>
+    <div class="flex-wrap choices">
+      <div>
+        <label for="counter" class="d-bl">How many colors to generate ? </label>
+        <input type="number" name="counter" id="counter" step="5" max="10000" value="10000" />
+      </div>
+      <div class="p-x-1">
+        <label>Generate shades of a primary color ?</label>
+        <div class="flex-wrap">
+          <div>
+            <input type="checkbox" name="primary" id="red" value="red" />
+            <label for="red">RED </label>
+          </div>
+          <div>
+            <input type="checkbox" name="primary" id="blue" value="blue" />
+            <label for="blue">BLUE </label>
+          </div>
+          <div>
+            <input type="checkbox" name="primary" id="green" value="green" />
+            <label for="green">GREEN </label>
+          </div>
+        </div>
+        
+      </div>
+      
+    </div>
   </body>
   <link rel="stylesheet" href="styles.css">
   <script type="module" src="index.js"></script>

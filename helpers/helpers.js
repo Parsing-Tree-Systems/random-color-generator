@@ -11,4 +11,5 @@ export class CSSHelper {
 
     return Math.floor(Math.random() * (max - min) + min);
   }
+
 }

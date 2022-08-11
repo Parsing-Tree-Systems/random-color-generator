@@ -8,15 +8,44 @@ body {
   padding: 1rem;
 }
 
+.choices, input[type=number] {
+  font-size: 1.5rem;
+}
+
+.tone {
+  width: 39.2rem;
+}
+
 .flex-wrap {
   display: flex;
   flex-wrap: wrap;
 }
 
 .cell {
-  width: 8.5rem;
   height: auto;
   padding: 1rem;
   font-weight: 600;
   border-radius: 1rem;
+}
+
+.color {
+  width: 8.5rem;
+}
+.shade {
+  width: 6.5rem;
+}
+
+.d-bl {
+  display: block;
+}
+
+.p-x-1 {
+  padding: 0 1rem;
+}
+
+
+@media screen and (max-width: 600) {
+  .tone, .shade {
+    width: 100%;
+  }
 }
